@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
       int range,i,count = 0;
+      cout<<"range: ";
       cin>>range;
       
       
